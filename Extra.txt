@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GS Encurtador</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 40px;
+        background-color: #f9f9f9;
+        color: #222;
+        line-height: 1.6;
+      }
+
+      h1, h2 {
+        color: #0d47a1;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      }
+
+      footer {
+        margin-top: 30px;
+        font-size: 0.9em;
+        color: #555;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>GS Encurtador</h1>
+      <h2>Trabalho: Criação de um Site</h2>
+
+      <p><strong>O que diferencia o GS Encurtador dos outros?</strong></p>
+
+      <p>
+        Em um cenário digital dominado por plataformas repletas de anúncios, redirecionamentos duvidosos e sistemas complexos, surge o <strong>GS Encurtador</strong>, uma ferramenta criada com o propósito de devolver ao usuário o controle e a confiança no simples ato de encurtar links. Idealizado por Georges Pereira, o projeto nasceu de um planejamento cuidadoso e de uma filosofia clara: unir simplicidade, segurança e desempenho em um só lugar.
+      </p>
+
+      <p>
+        O GS Encurtador se diferencia de outros serviços do mesmo tipo por sua clareza e respeito ao usuário. Enquanto muitos encurtadores abusam de pop-ups, scripts invasivos e redirecionamentos intermináveis, o GS aposta em um modelo limpo e direto: você, seu link e um redirecionamento confiável. Cada link criado é único, rastreável e protegido, oferecendo opções de personalização como tempo de espera ou camadas de interação, o que amplia as possibilidades de uso sem comprometer a experiência.
+      </p>
+
+      <p>
+        Outro destaque está na preocupação com a privacidade e acessibilidade. O sistema foi projetado para não coletar dados sensíveis desnecessários, garantindo que o usuário mantenha o controle de suas informações. Além disso, sua estrutura leve permite funcionamento em qualquer navegador moderno, sem exigir alto desempenho do dispositivo. Essa eficiência técnica reflete o cuidado e o propósito com que foi desenvolvido.
+      </p>
+
+      <p>
+        O GS Encurtador é mais do que uma simples ferramenta — é o resultado de um trabalho dedicado e ético, que combina design, lógica e funcionalidade em perfeita harmonia. Criado com código limpo e atenção aos detalhes, ele representa uma nova geração de encurtadores, voltada à transparência e à confiança. Idealizado, programado e aperfeiçoado por Georges Pereira, o GS Encurtador mostra que, com propósito e responsabilidade, é possível transformar até as tarefas mais simples em experiências seguras e elegantes.
+      </p>
+
+      <footer>
+        <p><strong>Créditos:</strong>
